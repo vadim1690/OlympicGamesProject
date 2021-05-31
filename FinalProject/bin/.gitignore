@@ -1,0 +1,17 @@
+/.classpath
+/.project
+/.settings/
+/controller/
+/exceptions/
+/file_competitions.txt
+/file_date.txt
+/file_judges.txt
+/file_sportsmen.txt
+/file_squads.txt
+/file_stadiums.txt
+/listeners/
+/model/
+/olympicsImg.gif
+/starter/
+/view/
+/winners.jpg
